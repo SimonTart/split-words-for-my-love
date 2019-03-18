@@ -55,7 +55,7 @@ def split_words(folder):
     print("此次共生成{0}个单词音频".format(count))
 
 
-split_words('回到家')
+split_words('百科知识')
 # split_words('起床')
 # split_words('常用句型三')
 
